@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'deltasurya' => [
+        'email' => env('DELTASURYA_EMAIL'),
+        'password' => env('DELTASURYA_PASSWORD'),
+    ],
+
 ];
